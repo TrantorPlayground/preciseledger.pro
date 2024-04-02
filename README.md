@@ -1,3 +1,5 @@
+![Precise Ledger Pro](lead%20image.webp)
+
 The Precise Ledger Pro is a Dynamic Event-Streamed Auditable Loan Ledger
 
 ## What is it?
