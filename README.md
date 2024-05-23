@@ -3,10 +3,10 @@
 The Precise Ledger Pro is a Dynamic Event-Streamed Auditable Loan Ledger
 
 ## Introduction
-![Intro](./assets/presentation.mp4)
+![Intro](https://github.com/TrantorPlayground/preciseledger.pro/raw/main/assets/presentation.mp4)
 
 ## API Specs
 [Open API Specs](https://precise-ledger-pro-trdtcjuuua-em.a.run.app/api-specs)
 
 ## Demo
-![Demo](./assets/demo.mp4)
+![Demo](https://github.com/TrantorPlayground/preciseledger.pro/raw/main/assets/demo.mp4)
